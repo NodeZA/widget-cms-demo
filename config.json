@@ -3,7 +3,7 @@
   "connection": {
     "host": "localhost",
     "user": "root",
-    "passowrd": "",
+    "password": "",
     "database": "test",
     "charset": "utf8"
   }
