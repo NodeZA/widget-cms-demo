@@ -1,0 +1,10 @@
+{
+  "client": "mysql",
+  "connection": {
+    "host": "localhost",
+    "user": "root",
+    "passowrd": "",
+    "database": "test",
+    "charset": "utf8"
+  }
+}
