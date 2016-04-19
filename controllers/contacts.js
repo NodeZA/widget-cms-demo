@@ -33,8 +33,6 @@ let ContactsController = App.Controller.extend({
    add: function (req, res, next) {
      let Contact = App.getModel('Contact');
 
-     console.log(req.body);
-
      Contact.save({
        name: req.body.name,
        email: req.body.email,
